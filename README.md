@@ -4,7 +4,7 @@ This repository contains a comprehensive wordlist focused on WiFi passwords comm
 
 ## 📂 File
 
-- `geowifi-wordlist.txt` (~10MB): One unified wordlist for WiFi auditing or educational pentesting in the Georgian context.
+- `geowifi-wordlist.txt` (~11MB): One unified wordlist for WiFi auditing or educational pentesting in the Georgian context.
 
 ## ⚠️ Disclaimer
 
@@ -14,4 +14,4 @@ Always have explicit permission before testing any network.
 
 ## 🧠 Tip
 
-Use with tools like `aircrack-ng`, `hashcat`, or `wifite` for faster dictionary attacks targeting Georgian setups.
+Use with tools like `aircrack-ng`, `hashcat`, or `wifite` for faster dictionary attacks targeting networks.
